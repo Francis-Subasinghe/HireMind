@@ -1,1 +1,5 @@
-__pycache__/ 
+echo # HireMind > README.md
+echo __pycache__/ > .gitignore
+git add .
+git commit -m "Initial commit with README and .gitignore"
+git push origin main
